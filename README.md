@@ -10,11 +10,11 @@
 
 • افتح ترمنال وحط 
 
-git clone https://github.com/moodlIMyIl/TshAkE.git
+git clone https://github.com/youyouasoo12345/DEV_YOUENS.git
 
 • انتر وراه حط •
 
-cd TshAkE
+cd DEV_YOUENS
 
 • وانتر وراه حط •
 
@@ -28,7 +28,7 @@ chmod +x install.sh
 
 • او نصب بكود واحد 
 
-git clone https://github.com/moodlIMyIl/TshAkE.git && cd TshAkE && chmod +x install.sh && ./install.sh
+git clone https://github.com/youyouasoo12345/DEV_YOUENS.git && cd DEV_YOUENS && chmod +x install.sh && ./install.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
