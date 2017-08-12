@@ -24,11 +24,15 @@ chmod +x install.sh
 
 ./install.sh
 
+•  وراه حط •
+
+./YOUENS.sh
+
 ֆ • • • • • • • • • • • • • ֆ
 
 • او نصب بكود واحد 
 
-git clone https://github.com/youyouasoo12345/DEV_YOUENS.git && cd DEV_YOUENS && chmod +x install.sh && ./install.sh
+git clone https://github.com/youyouasoo12345/DEV_YOUENS.git && cd DEV_YOUENS && chmod +x install.sh && ./install.sh && ./YOUENS.sh
 
 • وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y •
 
